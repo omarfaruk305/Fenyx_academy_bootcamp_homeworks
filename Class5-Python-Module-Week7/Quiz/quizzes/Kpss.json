@@ -1,0 +1,24 @@
+{
+    "1": {
+        "answer": "a",
+        "difficulty": "easy",
+        "options": {
+            "a": "a",
+            "b": "b",
+            "c": "c",
+            "d": "d"
+        },
+        "text": "soru1"
+    },
+    "2": {
+        "answer": "b",
+        "difficulty": "easy",
+        "options": {
+            "a": "a1",
+            "b": "b1",
+            "c": "c1",
+            "d": "d1"
+        },
+        "text": "soru2"
+    }
+}
